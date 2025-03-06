@@ -2,7 +2,8 @@ Lawrence Livermore National Laboratory and the US National Nuclear Security Admi
 
 The Gula Regional Hospital is approximately 47,700 square feet (4,500 square meters) floor space, divided amoung 2 floors above ground and a basement.  It has 77 rooms.  The basement contains two high-activity radiation sources, a blood irradiator (assumed to be using a cesium-137 or cobalt-60 source), and a teletherapy device (assumed to be cobalt-60) for treating cancer patients.  These parts of the facility are hardened from a physical security perspective.  The high-activity radiation sources are protected in keeping with ORS and international consensus.  This includes systems for access control, physical protection, video monitoring, and radiation detection.  The combination of these systems ensures a robust detection and response against external and insider threats of theft or sabotage.  The facility also contains a security department with a central alarm station (CAS), medical emergency room, treatment facilities, office space, etc.
 
-LLNL-VIDEO-867120
+The above text is covered under review and release LLNL-MI-872771
+The 3D model and video is covered under review and release LLNL-VIDEO-867120
 
 Lawrence Livermore National Laboratory is operated by Lawrence Livermore National Security, LLC, for the U.S. Department of Energy, National Nuclear Security Administration under Contract DE-AC52-07NA27344.
 
